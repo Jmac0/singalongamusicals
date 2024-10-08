@@ -1,0 +1,178 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ArrowLink	src/app/components/page.tsx	/^import ArrowLink from '@\/components\/links\/ArrowLink';$/;"	I
+ArrowLink	src/app/page.tsx	/^import ArrowLink from '@\/components\/links\/ArrowLink';$/;"	I
+ArrowLink	src/components/links/ArrowLink.tsx	/^export default function ArrowLink<C extends React.ElementType>({$/;"	f
+ArrowLinkProps	src/components/links/ArrowLink.tsx	/^type ArrowLinkProps<C extends React.ElementType> = {$/;"	t
+Button	src/app/components/page.tsx	/^import Button from '@\/components\/buttons\/Button';$/;"	I
+ButtonLink	src/app/components/page.tsx	/^import ButtonLink from '@\/components\/links\/ButtonLink';$/;"	I
+ButtonLink	src/app/page.tsx	/^import ButtonLink from '@\/components\/links\/ButtonLink';$/;"	I
+ButtonLinkProps	src/components/links/ButtonLink.tsx	/^type ButtonLinkProps = {$/;"	t
+ButtonProps	src/components/buttons/Button.tsx	/^type ButtonProps = {$/;"	t
+Color	src/app/components/page.tsx	/^type Color = (typeof colorList)[number];$/;"	t
+ComponentPage	src/app/components/page.tsx	/^export default function ComponentPage() {$/;"	f
+ComponentsLayout	src/app/components/layout.tsx	/^export default function ComponentsLayout({$/;"	f
+Error	src/app/error.tsx	/^export default function Error({$/;"	f
+GET	src/app/api/hello/route.ts	/^export async function GET() {$/;"	f
+Head	src/app/page.tsx	/^import Head from 'next\/head';$/;"	I
+HomePage	src/__tests__/pages/HomePage.test.tsx	/^import HomePage from '@\/app\/page';$/;"	I
+HomePage	src/app/page.tsx	/^export default function HomePage() {$/;"	f
+IconButton	src/app/components/page.tsx	/^import IconButton from '@\/components\/buttons\/IconButton';$/;"	I
+IconButtonProps	src/components/buttons/IconButton.tsx	/^type IconButtonProps = {$/;"	t
+IconLinkProps	src/components/links/IconLink.tsx	/^type IconLinkProps = {$/;"	t
+Image	src/components/NextImage.tsx	/^import Image, { ImageProps } from 'next\/image';$/;"	I
+Link	src/components/links/UnstyledLink.tsx	/^import Link, { LinkProps } from 'next\/link';$/;"	I
+Logo	src/app/page.tsx	/^import Logo from '~\/svg\/Logo.svg';$/;"	I
+NEXT_PUBLIC_SHOW_LOGGER	src/lib/env.ts	/^  NEXT_PUBLIC_SHOW_LOGGER: z.enum(['true', 'false']).optional(),$/;"	m
+NextImage	src/app/components/page.tsx	/^import NextImage from '@\/components\/NextImage';$/;"	I
+NextImage	src/components/NextImage.tsx	/^export default function NextImage({$/;"	f
+NextImageProps	src/components/NextImage.tsx	/^type NextImageProps = {$/;"	t
+NodeJS	src/lib/env.ts	/^  namespace NodeJS {$/;"	c
+NotFound	src/app/not-found.tsx	/^export default function NotFound() {$/;"	f
+OpenGraphType	src/lib/og.ts	/^type OpenGraphType = {$/;"	t
+PrimaryLink	src/app/components/page.tsx	/^import PrimaryLink from '@\/components\/links\/PrimaryLink';$/;"	I
+PrimaryLinkProps	src/components/links/PrimaryLink.tsx	/^type PrimaryLinkProps = {$/;"	t
+ProcessEnv	src/lib/env.ts	/^    interface ProcessEnv extends z.infer<typeof envVariables> {}$/;"	i
+React	src/__mocks__/svg.tsx	/^import React, { SVGProps } from 'react';$/;"	I
+React	src/app/components/page.tsx	/^import React from 'react';$/;"	I
+ReactComponent	src/__mocks__/svg.tsx	/^export const ReactComponent = SvgrMock;$/;"	v
+RootLayout	src/app/layout.tsx	/^export default function RootLayout({$/;"	f
+Skeleton	src/app/components/page.tsx	/^import Skeleton from '@\/components\/Skeleton';$/;"	I
+Skeleton	src/components/Skeleton.tsx	/^export default function Skeleton({ className, ...rest }: SkeletonProps) {$/;"	f
+SkeletonProps	src/components/Skeleton.tsx	/^type SkeletonProps = React.ComponentPropsWithoutRef<'div'>;$/;"	t
+TextButton	src/app/components/page.tsx	/^import TextButton from '@\/components\/buttons\/TextButton';$/;"	I
+TextButton	src/app/error.tsx	/^import TextButton from '@\/components\/buttons\/TextButton';$/;"	I
+TextButtonProps	src/components/buttons/TextButton.tsx	/^type TextButtonProps = {$/;"	t
+UnderlineLink	src/app/components/page.tsx	/^import UnderlineLink from '@\/components\/links\/UnderlineLink';$/;"	I
+UnderlineLink	src/app/page.tsx	/^import UnderlineLink from '@\/components\/links\/UnderlineLink';$/;"	I
+UnderlineLink	src/components/links/ArrowLink.tsx	/^import UnderlineLink from '@\/components\/links\/UnderlineLink';$/;"	I
+UnstyledLink	src/app/components/page.tsx	/^import UnstyledLink from '@\/components\/links\/UnstyledLink';$/;"	I
+UnstyledLink	src/app/page.tsx	/^import UnstyledLink from '@\/components\/links\/UnstyledLink';$/;"	I
+UnstyledLink	src/components/links/ButtonLink.tsx	/^import UnstyledLink, {$/;"	I
+UnstyledLink	src/components/links/IconLink.tsx	/^import UnstyledLink, {$/;"	I
+UnstyledLink	src/components/links/PrimaryLink.tsx	/^import UnstyledLink, {$/;"	I
+UnstyledLink	src/components/links/UnderlineLink.tsx	/^import UnstyledLink, {$/;"	I
+UnstyledLinkProps	src/components/links/UnstyledLink.tsx	/^export type UnstyledLinkProps = {$/;"	t
+alt	src/components/NextImage.tsx	/^  alt: string;$/;"	m
+animation	tailwind.config.ts	/^      animation: {$/;"	m
+apple	src/app/layout.tsx	/^    apple: '\/favicon\/apple-touch-icon.png',$/;"	m
+backgroundImage	src/components/Skeleton.tsx	/^        backgroundImage:$/;"	m
+backgroundPosition	tailwind.config.ts	/^            backgroundPosition: '-700px 0',$/;"	m
+backgroundPosition	tailwind.config.ts	/^            backgroundPosition: '700px 0',$/;"	m
+backgroundRepeat	src/components/Skeleton.tsx	/^        backgroundRepeat: 'no-repeat',$/;"	m
+backgroundSize	src/components/Skeleton.tsx	/^        backgroundSize: '700px 100%',$/;"	m
+card	src/app/layout.tsx	/^    card: 'summary_large_image',$/;"	m
+children	src/app/components/layout.tsx	/^  children: React.ReactNode;$/;"	m
+children	src/app/layout.tsx	/^  children: React.ReactNode;$/;"	m
+children	src/components/links/UnstyledLink.tsx	/^  children: React.ReactNode;$/;"	m
+clsx	src/app/components/page.tsx	/^import clsx from 'clsx';$/;"	I
+clsx	src/lib/utils.ts	/^import clsx, { ClassValue } from 'clsx';$/;"	I
+cn	src/lib/utils.ts	/^export function cn(...inputs: ClassValue[]) {$/;"	f
+colors	tailwind.config.ts	/^      colors: {$/;"	m
+content	tailwind.config.ts	/^  content: ['.\/src\/**\/*.{js,jsx,ts,tsx}'],$/;"	m
+dark	tailwind.config.ts	/^        dark: '#222222',$/;"	m
+default	src/app/layout.tsx	/^    default: siteConfig.title,$/;"	m
+defaultTheme	tailwind.config.ts	/^import defaultTheme from 'tailwindcss\/defaultTheme';$/;"	I
+describe	src/__tests__/pages/HomePage.test.tsx	/^describe('Homepage', () => {$/;"	m
+describe	src/lib/__tests__/og.test.ts	/^describe('Open Graph function should work correctly', () => {$/;"	m
+description	src/app/components/layout.tsx	/^  description: 'Pre-built components with awesome default',$/;"	m
+description	src/app/layout.tsx	/^    description: siteConfig.description,$/;"	m
+description	src/app/layout.tsx	/^  description: siteConfig.description,$/;"	m
+description	src/constant/config.ts	/^  description:$/;"	m
+description	src/lib/__tests__/og.test.ts	/^      description: 'Test description',$/;"	m
+description	src/lib/og.ts	/^  description: string;$/;"	m
+disabled	src/components/buttons/Button.tsx	/^      disabled: buttonDisabled,$/;"	m
+disabled	src/components/buttons/IconButton.tsx	/^      disabled: buttonDisabled,$/;"	m
+disabled	src/components/buttons/TextButton.tsx	/^      disabled: buttonDisabled,$/;"	m
+error	src/app/error.tsx	/^  error: Error & { digest?: string };$/;"	m
+expect	src/__tests__/pages/HomePage.test.tsx	/^    expect(heading).toBeInTheDocument();$/;"	m
+expect	src/lib/__tests__/og.test.ts	/^    expect(result).not.toContain('&templateTitle=');$/;"	m
+expect	src/lib/__tests__/og.test.ts	/^    expect(result).toContain('&templateTitle=Test%20Template%20Title');$/;"	m
+extend	tailwind.config.ts	/^    extend: {$/;"	m
+filter	tailwind.config.ts	/^            filter: 'none',$/;"	m
+filter	tailwind.config.ts	/^            filter:$/;"	m
+flicker	tailwind.config.ts	/^        flicker: 'flicker 3s linear infinite',$/;"	m
+flicker	tailwind.config.ts	/^        flicker: {$/;"	m
+fontFamily	tailwind.config.ts	/^      fontFamily: {$/;"	m
+getFromLocalStorage	src/lib/helper.ts	/^export function getFromLocalStorage(key: string): string | null {$/;"	f
+getFromSessionStorage	src/lib/helper.ts	/^export function getFromSessionStorage(key: string): string | null {$/;"	f
+href	src/components/links/UnstyledLink.tsx	/^  href: string;$/;"	m
+icon	src/app/layout.tsx	/^    icon: '\/favicon\/favicon.ico',$/;"	m
+icon	src/components/buttons/IconButton.tsx	/^      icon: Icon,$/;"	m
+icon	src/components/links/IconLink.tsx	/^      icon: Icon,$/;"	m
+icons	src/app/layout.tsx	/^  icons: {$/;"	m
+if	src/components/links/UnstyledLink.tsx	/^    if (!isNewTab) {$/;"	m
+if	src/lib/helper.ts	/^  if (typeof sessionStorage !== 'undefined') {$/;"	m
+if	src/lib/helper.ts	/^  if (typeof window !== 'undefined') {$/;"	m
+if	src/lib/logger.ts	/^  if (!showLogger) return;$/;"	m
+images	src/app/layout.tsx	/^    images: [`${siteConfig.url}\/images\/og.jpg`],$/;"	m
+isLocal	src/constant/env.ts	/^export const isLocal = process.env.NODE_ENV === 'development';$/;"	v
+isProd	src/constant/env.ts	/^export const isProd = process.env.NODE_ENV === 'production';$/;"	v
+it	src/__tests__/pages/HomePage.test.tsx	/^  it('renders the Components', () => {$/;"	m
+it	src/lib/__tests__/og.test.ts	/^  it('should not return templateTitle when not specified', () => {$/;"	m
+it	src/lib/__tests__/og.test.ts	/^  it('should return templateTitle when specified', () => {$/;"	m
+keyframes	tailwind.config.ts	/^      keyframes: {$/;"	m
+leftIcon	src/components/buttons/Button.tsx	/^      leftIcon: LeftIcon,$/;"	m
+leftIcon	src/components/links/ButtonLink.tsx	/^      leftIcon: LeftIcon,$/;"	m
+locale	src/app/layout.tsx	/^    locale: 'en_US',$/;"	m
+logger	src/lib/logger.ts	/^export default function logger(object: unknown, comment?: string): void {$/;"	f
+manifest	src/app/layout.tsx	/^  manifest: `\/favicon\/site.webmanifest`,$/;"	m
+metadata	src/app/components/layout.tsx	/^export const metadata: Metadata = {$/;"	v
+metadata	src/app/layout.tsx	/^export const metadata: Metadata = {$/;"	v
+metadata	src/app/not-found.tsx	/^export const metadata: Metadata = {$/;"	v
+metadataBase	src/app/layout.tsx	/^  metadataBase: new URL(siteConfig.url),$/;"	m
+opacity	tailwind.config.ts	/^            opacity: '0.4',$/;"	m
+opacity	tailwind.config.ts	/^            opacity: '0.99',$/;"	m
+openGraph	src/app/layout.tsx	/^  openGraph: {$/;"	m
+openGraph	src/lib/og.ts	/^export function openGraph({$/;"	f
+plugins	tailwind.config.ts	/^  plugins: [require('@tailwindcss\/forms')],$/;"	m
+primary	tailwind.config.ts	/^        primary: ['Inter', ...defaultTheme.fontFamily.sans],$/;"	m
+primary	tailwind.config.ts	/^        primary: {$/;"	m
+render	src/__tests__/pages/HomePage.test.tsx	/^    render(<HomePage \/>);$/;"	m
+reset	src/app/error.tsx	/^  reset: () => void;$/;"	m
+return	src/app/components/page.tsx	/^  return ($/;"	m
+return	src/app/error.tsx	/^  return ($/;"	m
+return	src/app/layout.tsx	/^  return ($/;"	m
+return	src/app/not-found.tsx	/^  return ($/;"	m
+return	src/app/page.tsx	/^  return ($/;"	m
+return	src/components/NextImage.tsx	/^  return ($/;"	m
+return	src/components/Skeleton.tsx	/^  return ($/;"	m
+return	src/components/buttons/Button.tsx	/^    return ($/;"	m
+return	src/components/buttons/IconButton.tsx	/^    return ($/;"	m
+return	src/components/buttons/TextButton.tsx	/^    return ($/;"	m
+return	src/components/links/ArrowLink.tsx	/^  return ($/;"	m
+return	src/components/links/ButtonLink.tsx	/^    return ($/;"	m
+return	src/components/links/IconLink.tsx	/^    return ($/;"	m
+return	src/components/links/PrimaryLink.tsx	/^    return ($/;"	m
+return	src/components/links/UnderlineLink.tsx	/^    return ($/;"	m
+return	src/components/links/UnstyledLink.tsx	/^      return ($/;"	m
+return	src/components/links/UnstyledLink.tsx	/^    return ($/;"	m
+rightIcon	src/components/buttons/Button.tsx	/^      rightIcon: RightIcon,$/;"	m
+rightIcon	src/components/links/ButtonLink.tsx	/^      rightIcon: RightIcon,$/;"	m
+robots	src/app/layout.tsx	/^  robots: { index: true, follow: true },$/;"	m
+shimmer	tailwind.config.ts	/^        shimmer: 'shimmer 1.3s linear infinite',$/;"	m
+shimmer	tailwind.config.ts	/^        shimmer: {$/;"	m
+shortcut	src/app/layout.tsx	/^    shortcut: '\/favicon\/favicon-16x16.png',$/;"	m
+showLogger	src/constant/env.ts	/^export const showLogger = isLocal$/;"	v
+siteConfig	src/constant/config.ts	/^export const siteConfig = {$/;"	v
+siteName	src/app/layout.tsx	/^    siteName: siteConfig.title,$/;"	m
+siteName	src/lib/__tests__/og.test.ts	/^      siteName: 'Test site name',$/;"	m
+siteName	src/lib/og.ts	/^  siteName: string;$/;"	m
+template	src/app/layout.tsx	/^    template: `%s | ${siteConfig.title}`,$/;"	m
+templateTitle	src/lib/__tests__/og.test.ts	/^      templateTitle: 'Test Template Title',$/;"	m
+theme	tailwind.config.ts	/^  theme: {$/;"	m
+title	src/app/components/layout.tsx	/^  title: 'Components',$/;"	m
+title	src/app/layout.tsx	/^    title: siteConfig.title,$/;"	m
+title	src/app/layout.tsx	/^  title: {$/;"	m
+title	src/app/not-found.tsx	/^  title: 'Not Found',$/;"	m
+title	src/constant/config.ts	/^  title: 'Next.js + Tailwind CSS + TypeScript Starter',$/;"	m
+toggleMode	src/app/components/page.tsx	/^  function toggleMode() {$/;"	f
+twitter	src/app/layout.tsx	/^  twitter: {$/;"	m
+type	src/app/layout.tsx	/^    type: 'website',$/;"	m
+type	tailwind.config.ts	/^import type { Config } from 'tailwindcss';$/;"	I
+url	src/app/layout.tsx	/^    url: siteConfig.url,$/;"	m
+url	src/constant/config.ts	/^  url: 'https:\/\/tsnext-tw.thcl.dev',$/;"	m
